@@ -1,0 +1,2 @@
+# auto_attendance_system
+武汉大学计算机学院课代表考勤系统自动化
